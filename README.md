@@ -71,6 +71,7 @@ trace id 03e7a3e4 inet nftrace-table nftrace-chain packet: iif "eth0" ether sadd
   
 ```sh
 ./nftrace remove
+```
 
 ```sh
 ./nftrace list
